@@ -1,5 +1,5 @@
 {
-  "latestVersion": "0.1.0",
+  "latestVersion": "0.2.0",
   "downloadUrl": "https://github.com/YOURNAME/MyApp-Updates/releases/download/v0.1.0/MyAppSetup.exe",
   "mandatory": false,
   "notes": "Initial release"
