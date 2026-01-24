@@ -1,6 +1,9 @@
 {
   "latestVersion": "0.2.0.0",
-  "downloadUrl": "https://github.com/SigmaClick/vexi/blob/main/releases/v0.2.0/Vexi.exe",
+  "notes": "Bug fixes and improvements",
+  "downloadUrl": "https://example.com/Vexi.exe",
   "mandatory": false,
-  "notes": "-UI Updates + Sorting feature"
+  "sha256": "abc123...",
+  "minFileSize": 100000,
+  "maxFileSize": 50000000
 }
