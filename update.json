@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.1.0.0",
-  "downloadUrl": "https://github.com/YOURNAME/MyApp-Updates/releases/download/v0.2.0/MyAppSetup.exe",
+  "latestVersion": "0.2.0.0",
+  "downloadUrl": "https://github.com/SigmaClick/vexi/blob/main/releases/v0.2.0/Vexi.exe",
   "mandatory": false,
   "notes": "Test update"
 }
