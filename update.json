@@ -3,7 +3,7 @@
   "notes": "Bug fixes and improvements",
   "downloadUrl": "https://github.com/SigmaClick/vexi/blob/main/releases/v0.2.0/Vexi.exe",
   "mandatory": false,
-  "sha256": "987988fd31718c8e519e522547dd6ddf50bb19a07437c9d94d0deb478f68555e",
+  "sha256": "",
   "minFileSize": 100000,
   "maxFileSize": 50000000
 }
